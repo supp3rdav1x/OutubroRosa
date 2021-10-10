@@ -1,1 +1,1 @@
-# # Landing Page sobre a campanha Outubro Rosa usando HTML & CSS.
+# # Landing Page sobre a campanha Outubro Rosa usando HTML & CSS
